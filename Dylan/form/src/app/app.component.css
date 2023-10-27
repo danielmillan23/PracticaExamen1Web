@@ -7,6 +7,7 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+
 h1,
 h2,
 h3,
@@ -44,4 +45,29 @@ p {
 
 .body {
     margin-top: 40px;
+}
+
+#josefin {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: ;
+}
+
+.autores {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 30px;
+}
+
+.imagen {
+    margin-left: 750px;
+    margin-bottom: 100px;
+
+
+}
+
+.posicion {
+    margin-top: 100px;
 }
